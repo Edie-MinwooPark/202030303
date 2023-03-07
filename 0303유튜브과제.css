@@ -1,0 +1,120 @@
+.background1{
+    width: 1120px;
+    height: 150px;
+    
+    position: relative;
+}
+.background2{
+    width: 1120px;
+    height: 150px;
+    border: 1px solid black;
+    background-color: rgb(233, 229, 229);
+    border-radius: 15px;
+}
+
+.title{
+    font-weight: 1000;
+}
+.smallword{
+    font-size: 12px;
+    color: gray;
+}
+.icon{
+    background-image: url(https://yt3.ggpht.com/w5i6zwA3C1vRng37d9p6LO1k0CjFdljI2IfrT5NXoabJyXJlZA3_PFKaZn8So5OPeYoiv8vG=s68-c-k-c0x00ffffff-no-rj);
+    width: 30px;
+    height: 30px;
+    background-size: cover;
+    display: block;
+    border-radius: 50%;
+    float: left;
+}
+.youtuber{
+    margin-left: 35px;
+}
+
+.likebox{
+    background-color: gray;
+    width: 150px;
+    height: 30px;
+    border-radius: 15px;
+    position: absolute;
+    top: 53px;
+    left: 661px;
+    
+}
+
+.thumbup{
+    width: 20px;
+    height: 20px;
+    opacity: 0.5;
+}
+.thumbdown{
+    width: 20px;
+    height: 20px;
+    opacity: 0.5;
+    margin-left: 30px;
+}
+
+#click{
+    margin-left: 20px;
+}
+.share{
+    background-color: gray;
+    width: 100px;
+    height: 30px;
+    border-radius: 15px;
+    position: absolute;
+    top: 53px;
+    left: 831px;
+}
+.sharetext{
+    margin-left: 23px;
+}
+
+.shareimage{
+    width: 20px;
+    height: 20px;
+    margin-left: 13px;
+}
+.download{
+    background-color: gray;
+    width: 100px;
+    height: 30px;
+    border-radius: 15px;
+    position: absolute;
+    top: 53px;
+    left: 941px;
+}
+.dots{
+    background-color: gray;
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    position: absolute;
+    top: 53px;
+    left: 1063px;
+}
+.subs{
+    background-color: black;
+    color: white;
+    width: 60px;
+    height: 30px;
+    border-radius: 15px;
+    position: absolute;
+    top: 53px;
+    text-align: center;
+    left: 300px;
+}
+.downloadimg{
+    width: 20px;
+    height: 20px;
+    margin-left: 13px;
+}
+.dotletter{
+    font-weight: 600;
+    margin-left: 10px;
+}
+.gudok{
+    font-size: 11px;
+    color: gray;
+}

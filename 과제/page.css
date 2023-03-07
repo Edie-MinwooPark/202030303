@@ -1,0 +1,75 @@
+.icon{
+    background-image: url(https://yt3.ggpht.com/w5i6zwA3C1vRng37d9p6LO1k0CjFdljI2IfrT5NXoabJyXJlZA3_PFKaZn8So5OPeYoiv8vG=s68-c-k-c0x00ffffff-no-rj);
+    /* display: block;  */
+    width: 36px;
+    height: 36px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 50%;
+    float: left;
+}
+
+.gudok{
+    font-size: 11px;
+    color: gray;
+}
+
+.whiteboard{
+    width: 560px;
+    height: 100px;
+    background-color: rgb(241, 237, 232);
+    border-radius: 10px;
+}
+
+.subscribe{
+    width: 50px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    font-size: 14px;
+   text-align: center;
+   padding-top: 7px;
+    
+}
+.letters{
+    position: relative;
+}
+.subscribe{
+    position: absolute;
+    top: 66px;
+    left: 280px;
+    
+
+}
+img{
+    width: 20px;
+    height: 20px;
+}
+.like{
+    position: absolute;
+    left: 340px;
+    top: 70px;
+}
+
+.dots{
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAZlBMVEX///8AAADx8fGZmZm1tbWVlZWOjo729vaSkpI3NzfT09PCwsLp6eni4uJiYmKurq4RERGfn58tLS3MzMxBQUGHh4dTU1MXFxdbW1ve3t5MTEx6enpsbGxnZ2e7u7tHR0cmJiYeHh49ejJBAAACkElEQVR4nO3aiXKiQBDGcRvwQon3EV0Tff+XDJTZqASme8Dacof/7wG+moZmDqDXAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIYvSWX80GC0m02GLlGGWxHlKnGRtUnrTySJP6c/SqE3KvSzeyo/lcdUsJUpOu1vMW9JweKvj+JZyiLNmKQ/SNylZzvxTosG8lDLfNKgxWZYHs0/9Ux5H9qccWTj73sdFVYosPFNW56qUU6tm/agcWe7ok5Kta1LWXk12rBvMh19R9/p1mSKf9iu3qk8RezNEn/UpoybFFTaOocnSWuLElSITa4G/nsB7Xi1lLFBkZ5vyXXewYLuLw507ZdOkwJkyNDlYUjItRUzP4kFLaTC/60OTviGmbpK5WRtSHBOC14V6oF613LuaUr1MPNIXjXdDiqmj7iWGUNlqKZElRdQ5a6tniCSeFY71yJy2oVAmq2/aNJGaUsZ+Bbqn+B97d0pU3qpVmys3cW8bjHXhufq1Ga3hHpup1UVrMFur57t5rwqNocrYrNfJPTZ12frLp0Bjk+bbXlfK0NakeZs6Nw8n62B8zgOxNdT5eFsm+SvnYmab9MTvrGJtL5GpI8X6GLqbfWpO8XkQzZfNueibO0FiR4q9E3zWi8qjZiXXijgyp7iOP7bVsHD2qPDylAoH5pTBUyq8eFQY/j0M/zkMfy59znpoOGJ++/frYfh7mvD3pR04W4R/Pgz/jN+B9zThv2vrwPtSfZJWe7Twwu+8X+y7xcWd0ui7RQe+Pf0/3w8tE0KN2uvvddGmz/kGXNtSLb4Bd+A7fi/8fzEKof9Pcx1e2P9EAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAl/QFcl8j70Yub8MAAAAASUVORK5CYII=);
+    display: block;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: gray;
+    border-radius: 50%;
+    top: 68px;
+    left: 529px;
+
+}
+
+.share{
+    position: absolute;
+    font-size: 13px;
+    top: 71px;
+    left: 411px;
+}

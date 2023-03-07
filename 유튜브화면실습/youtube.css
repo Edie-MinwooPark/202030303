@@ -1,0 +1,27 @@
+h4{
+    display: inline;
+    margin-left: 30px;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    
+    
+}
+
+.item{
+    position: relative;
+    margin: auto;
+
+}
+
+
+
+img{
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    top: 320px;
+}
